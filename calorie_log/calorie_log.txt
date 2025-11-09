@@ -1,0 +1,37 @@
+========= DAILY CALORIE SUMMARY =========
+Meal Name		Calories
+-----------------------------------------
+Breakfast       	  350.00
+Lunch           	  600.00
+Snack           	  150.00
+-----------------------------------------
+Total:			1100.00
+Average per meal:	366.67
+SUCCESS: You are within your daily limit. Remaining: 100.00 calories.
+=========================================
+
+
+====== Daily Calorie Tracker Log ======
+Date: 2025-11-09 23:15:00.000000
+
+Meal Name       Calories
+----------------------------------
+breakfast             200.00
+dinner                500.00
+----------------------------------
+Total: 700.00
+Average per meal: 350.00
+SUCCESS: You are within your daily limit. Remaining: 200.00 calories.
+
+
+========= DAILY CALORIE SUMMARY =========
+Meal Name		Calories
+-----------------------------------------
+Breakfast       	  300.00
+Lunch           	  560.00
+-----------------------------------------
+Total:			860.00
+Average per meal:	430.00
+SUCCESS: You are within your daily limit. Remaining: 140.00 calories.
+=========================================
+
